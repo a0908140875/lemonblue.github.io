@@ -1,6 +1,6 @@
 {
   "name": "Lemonblue.GitHub.io",
   "tagline": "柠蓝",
-  "body": "# lemonblue.github.io\r\n柠蓝\r\n",
+  "body": "#【网速显示】-NetWorx\r\n\r\n##`一、前言`：\r\n\t\r\n> 我们在win系统使用中，应该都会接触到带有网速显示的工具，比如说360的桌面的小球球、腾讯的小球球等等这样的小工具，网速显示的好处在于能够让用户及时了解网络的使用情况，那么在Linux下能不能一款好的网速显示的软件呢？\r\n\r\n##`二、简介`：\r\n本次给大家推荐的是这款软件，我在win系统下面经常使用这个款软件，感觉要比别的都好，小而精、好用、功能全。\r\n它就是`Networx`这款软件\r\n官方网址：[SoftPerfect](https://www.softperfect.com)\r\n现在它也支持在Linux使用了\r\n\r\n##`三、安装`：\r\n1、软件页面下载地址：\r\n\t\r\n>[NetWorx for Mac OS, Linux and Windows](https://www.softperfect.com/board/read.php?8,23553)\r\n\r\nLInux版本的下载地址：\r\n\r\n>[networx_linux.tar.gz](https://www.softperfect.com/special/snapshots/networx_linux.tar.gz)\r\n\r\n2、下载完成后，`解压`该文件，就会等到一个**可执行**的文件，`直接执行`即可，我一开始还以为没有反应，后来才看到它是`直接在任务栏中显示`的。\r\n\r\n![Alt text](./选区_021.png)\r\n\r\n##`四、使用`：\r\n1、右键点击可以进行设置，支持中文简体语言\r\n\r\n![Alt text](./选区_022.png)\r\n\r\n2、设置的话，就因人而异了，这里是我设置的结果\r\n![Alt text](./选区_023.png)\r\n\r\n\t注：如果发现两款软件显示的网速不一致，是软件设置的关系，自行设置好就行了，Networx在计算网速的时候是可以设置的。",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
